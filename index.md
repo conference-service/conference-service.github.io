@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## 划时代会务
 
-You can use the [editor on GitHub](https://github.com/conference-service/conference-service.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+青岛划时代会务有限公司，2021年于山东省青岛市市北区成立，注册资金达100万元，是一家致力于青岛会务首选服务型企业。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 产品服务
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1.安排和组织会议，渠道都有严格的质量审查，产品质量完全可以得到保障；
+2.本公司采取了高效专业统筹人员，加之以完善的管理体系，在成本上有得天独厚的优势，在产品价格上也有更大的转圜空间；
+3.在返佣折扣方面，由于我们高于市场分比，具有相当可观的生态效益；
+4.公司由酒店业界领域资深人士强强联合，大大提高了服务和实施便利程度；
 
-```markdown
-Syntax highlighted code block
+### 企业文化
 
-# Header 1
-## Header 2
-### Header 3
+青岛划时代会务有限公司始终坚持“诚德立信，品质为先”的经营理念，以“诚实守信，合作共赢，用户满意”的宗旨对待客户，对待销售。
+始终致力于打造“青岛会务首选”，旨在为广大客户提供更高效、更优质的服务。
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 经营范围
 
-**Bold** and _Italic_ and `Code` text
+会议及展览服务；酒店管理；票务代理服务；旅游开发项目策划咨询；信息咨询服务（不含许可类信息咨询服务）；礼仪服务；企业形象策划；小微型客车租赁经营服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）许可项目：住宿服务【分支机构经营】；餐饮服务【分支机构经营】。
 
-[Link](url) and ![Image](src)
-```
+### 未来展望
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+在未来，我们公司将继续秉承“互利共赢”的原则，不断追求，不断创新，走向全国，践行企业责任感，以“管理、和产品”上的创新指导工作，为广大客户提供更高效、更优质的服务，让青岛划时代会务有限公司成为真正的“会务首选一站式采购服务企业”。
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/conference-service/conference-service.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
